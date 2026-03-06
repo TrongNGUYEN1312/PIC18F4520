@@ -39,8 +39,7 @@ Ce projet consiste en la conception et le développement d'un système embarqué
 Ce projet est conçu pour être compilé et flashé via les outils standards de Microchip.
 
 1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/TrongNGUYEN1312/votre-nom-de-projet.git](https://github.com/TrongNGUYEN1312/votre-nom-de-projet.git)
+   git clone https://github.com/TrongNGUYEN1312/PIC18F4520.git
 2. **Ouvrir le projet :**
    Importez le dossier du projet dans votre IDE (ex: MPLAB X IDE).
 3. **Compilation :**
